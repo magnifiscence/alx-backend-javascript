@@ -1,0 +1,14 @@
+{
+  "name": "0x01-es6_promise",
+  "version": "1.0.0",
+  "description": "0x01. ES6 Promises  0. 0-promise.js Return a Promise using this prototype function getResponseFromAPI()",
+  "main": "0-promise.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.57.0"
+  }
+}
